@@ -10,7 +10,8 @@ In order to run the algorithms, you must first install each of the modules impor
 pip install pandas
 pip install matplotlib
 pip install time
-pip install numpy```
+pip install numpy
+```
 
 From there, you can run the algorithms with:
 
