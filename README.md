@@ -1,4 +1,4 @@
-# README.txt
+# Supervised Learning
 
 The code for this assignment can be found in the [public repository here](https://github.com/syneva-runyan/supervised-learning-)
 
