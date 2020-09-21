@@ -21,4 +21,4 @@ Each algorithms will then run against the World Cup prediction data set first,
 and then each algorithm will run agains the Heart Failure Prediction data set.
 
 In alot of implementations, scikit code was referenced. 
-This was done especially so for the [decide_ccp_alpha example](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#sphx-glr-auto-examples-tree-plot-cost-complexity-pruning-py)
+This was done especially so for the [decide_ccp_alpha function](https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#sphx-glr-auto-examples-tree-plot-cost-complexity-pruning-py)
