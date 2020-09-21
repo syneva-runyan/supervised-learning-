@@ -2,15 +2,15 @@
 
 The code for this assignment can be found in the [public repository here](https://github.com/syneva-runyan/supervised-learning-)
 
-The algorithms.py file can be run to execute the assignments algorithms on both data sets.
+The `algorithms.py` file can be ran to execute the assignments algorithms on both data sets.
 
 In order to run the algorithms, you must first install each of the modules imported at the top of the file using pip
 
-`pip install sklearn`
-`pip install pandas`
-`pip install matplotlib`
-`pip install time`
-`pip install numpy`
+```pip install sklearn
+pip install pandas
+pip install matplotlib
+pip install time
+pip install numpy```
 
 From there, you can run the algorithms with:
 
